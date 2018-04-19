@@ -86,6 +86,7 @@ public class WebSocketChatClient extends WebSocketClient
 		// 断开连接重新连接
 		try
 		{
+			Thread.sleep(10000);
 			WebSocketChatClient wcc = new WebSocketChatClient(withdrawalService, uri, subscribeAddress);
 			wcc.connectJingtong();
 		}
