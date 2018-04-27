@@ -16,3 +16,5 @@ WebSocketStartComponent启动socket，用于监听钱包，并且将入账数据
 如果不存在，并且状态是3.socket没有，待添加，则会在withdrawal插入一条记录，数据来源是定时任务。
 
 数据库，表withdrawal，hash唯一约束
+
+![设计](https://github.com/twbbb/jingtongwithdrawalAdd/blob/master/sql/%E4%BA%95%E9%80%9A%E9%9B%B6%E8%8A%B1%E9%92%B1%E5%AE%9E%E6%97%B6%E6%8F%90%E5%8F%96.png)
