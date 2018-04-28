@@ -18,3 +18,6 @@ WebSocketStartComponent启动socket，用于监听钱包，并且将入账数据
 数据库，表withdrawal，hash唯一约束
 
 ![设计](https://github.com/twbbb/jingtongwithdrawalAdd/blob/master/sql/%E4%BA%95%E9%80%9A%E9%9B%B6%E8%8A%B1%E9%92%B1%E5%AE%9E%E6%97%B6%E6%8F%90%E5%8F%96.png)
+
+[微信提现](https://github.com/twbbb/jingtongwithdrawal)
+[响应](https://github.com/twbbb/jingtongwithdrawalResponse)
